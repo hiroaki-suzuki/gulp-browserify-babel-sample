@@ -15,7 +15,7 @@
     "browserify": "^16.2.2",
     "del": "^3.0.0",
     "event-stream": "^3.3.4",
-    "gulp": "^3.9.1",
+    "gulp": "^4.0.2",
     "run-sequence": "^2.2.1",
     "vinyl-source-stream": "^2.0.0"
   },
